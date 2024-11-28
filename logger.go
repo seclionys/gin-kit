@@ -1,4 +1,4 @@
-package gin_kit
+package ginkit
 
 import "go.uber.org/zap"
 
