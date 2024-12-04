@@ -1,4 +1,4 @@
-package ginkit
+package conf
 
 type Config struct {
 	Mode string
@@ -10,4 +10,5 @@ type LogConfig struct {
 	MaxAge     int
 	MaxSize    int
 	MaxBackups int
+	LogPath    string
 }
